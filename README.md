@@ -12,7 +12,7 @@ There are folders named 'red','green','blue' which contains the images of traini
     conda uninstall tensorflow
     conda install -c conda-forge tensorflow=1.13
   <br />
-  
+  ![](op/output1.jpg)
   
 2.The other folder "using_SVM" has a color recongnition model  using sklearn library and SVM .<br />
   The first python file "create_dataset" creates a csv file with the pixel values for each training image.Here in the class column 0=red      color 1=green 2=blue   <br />
