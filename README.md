@@ -23,7 +23,10 @@ There are folders named 'red','green','blue' which contains the images of traini
   <br />
   Below is the screenshot for the test image given as input
   
-  The image actual_ip is the image given as the test_image according to the LP3 statement
+  
+  ![output2](https://user-images.githubusercontent.com/62999002/83961223-b4d73500-a8ae-11ea-98e6-053e86e1d292.jpg)
+ <br />
+ The image actual_ip is the image given as the test_image according to the LP3 statement
   <br />
    
   
