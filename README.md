@@ -10,7 +10,7 @@ There are folders named 'red','green','blue' which contains the images of traini
   To install tensorflow 1.14.0  using conda <br />
     
     conda uninstall tensorflow
-    conda install -c conda-forge tensorflow=1.13
+    conda install -c conda-forge tensorflow=1.14.0
     
  
   Below is the screenshot for the test image given as input
