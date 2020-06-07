@@ -21,6 +21,7 @@ There are folders named 'red','green','blue' which contains the images of traini
   The first python file "create_dataset" creates a csv file with the pixel values for each training image.Here in the class column 0=red      color 1=green 2=blue   <br />
    
   <br />
+  Below is the screenshot for the test image given as input
   
   The image actual_ip is the image given as the test_image according to the LP3 statement
   <br />
