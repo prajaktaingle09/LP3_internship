@@ -16,7 +16,7 @@ There are folders named 'red','green','blue' which contains the images of traini
   The image actual_ip is the image given as the test_image according to the LP3 statement
   <br />
    
-  To install tensorflow 1.14.0 <br />
+  To install tensorflow 1.14.0  using conda <br />
+    
     conda uninstall tensorflow
-
     conda install -c conda-forge tensorflow=1.13
